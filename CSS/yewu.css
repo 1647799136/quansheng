@@ -1,0 +1,157 @@
+.box{
+	width: 1360px;
+	margin: 0 auto;
+	position: relative;
+	margin-bottom: 99px;
+	color: #7d7d7d;
+	font-size: 14px;
+	overflow: hidden;
+	text-align: left;
+}
+.box:first-child{
+	margin-top: 35px;
+}
+.box img{
+	width: 613px;
+	height: 381px;
+	float: left;
+}
+.profile-r{
+	width: 115px;
+	height: 38px;
+	background: url(../img/beijing.png);
+	float: left;
+	margin-left: 5px;
+	font-size: 22px;
+	color: #fff;
+	text-align: center;
+}
+.profile-l{
+	width: 115px;
+	height: 38px;
+	background: url(../img/beijing1.png);
+	float: left;
+	margin-left: 5px;
+	font-size: 22px;
+	color: #fff;
+	text-align: center;
+}
+.i-outer{
+	width: 747px;
+	float: left;
+	line-height: 38px;
+}
+.i-outer-r{
+	float: right;
+	width: 283px;
+}
+.i-outer-l{
+	float:left;
+}
+.icon{
+	background: url(../img/icoins.png) 0 0 no-repeat;
+	width: 36px;
+	height: 36px;
+	margin-left: 18px;
+	float: left;
+	position: relative;
+	vertical-align: middle;
+}
+.i-outer .small{
+	margin-left: 8px;
+}
+.i-outer i span{
+	display: none;
+    width: 116px;
+    position: absolute;
+    top: 29px;
+    left:-32px;
+    text-align: center;
+    font-style: normal;
+    font-size: 16px;
+}
+.i-outer i:hover span{
+	display: block;
+}
+.i2{
+	background-position: -40px 0;
+}
+.i3{
+	background-position: -80px 0;
+}
+.i4{
+	background-position: 0 -40px;
+}
+.i5{
+	background-position: -40px -40px;
+}
+.i6{
+	background-position: -80px -40px;
+}
+.i7{
+	background-position: 0 -80px;
+}
+.i8{
+	background-position: -40px -80px;
+}
+.i9{
+	background-position: -80px -80px;
+}
+.i10{
+	background-position: 0 -120px;
+}
+.i11{
+	background-position: -40px -120px;
+}
+.i12{
+	background-position: -80px -120px;
+}
+.i13{
+	background-position: 0 -160px;
+}
+.i14{
+	background-position: -40px -160px;
+}
+.i15{
+	background-position: -80px -160px;
+}
+.abs{
+	position: absolute;
+	width: 844px;
+	height: 256px;
+	bottom: 0;
+	background-color: #fff;
+}
+.abs-r{
+	right: 0;
+}
+.abs-l{
+	left: 0;
+}
+.text-outer{
+	margin-top: 28px;
+}
+.text-outer-r{
+	margin-left:55px;
+}
+.text-outer-l{
+	margin-right: 55px;
+}
+.text-outer p{
+	margin-bottom: 28px;
+}
+.text-outer span{
+	font-size: 26px;
+}
+.text-outer a{
+	display: block;
+	height: 21px;
+	width: 75px;
+	line-height: 21px;
+	text-align: center;
+	font-size: 12px;
+	color: #9b9b9b;
+	border: 1px solid #9b9b9b;
+	border-radius: 14px;
+	margin-top: 36px
+}

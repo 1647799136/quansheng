@@ -1,0 +1,26 @@
+.container{
+	padding-top: 44px;
+	text-align: left;
+	margin: 0 auto;
+	width: 1360px;
+	margin-bottom: 70px;
+}
+.title{
+	margin-top: 5px;
+	margin-bottom:60px; 
+}
+.title-l{
+	float: left;
+}
+.title-l small{
+	color: #747272;
+}
+.title span{
+	font-size: 24px;
+	color: #000;
+	text-indent: 12px;
+	height: 26px;
+	line-height: 26px;
+	display: inline-block;
+	border-left: 2px solid #e6001e; 
+}
